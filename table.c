@@ -1,11 +1,4 @@
 /*	Donald Elmore
- *	ECE 2230 MP7
- * 	Hash Tables
- *
- *	I added two additional test drivers, they are functions named testDriver1
- 	and testDriver2 and can be enabled with the -x and -z flags respectively and 
- 	show insertions, retrieval, deletions, and rehasing of the table correctly with all 	probing types.
- *
  *	Purpose: The goal of this machine problem is to design and implement a table ADT 
  	using hashing. There were three collision resolution policies: open 
  	addressing with linear probing and double hashing, and separate chaining. 
@@ -13,7 +6,6 @@
 	The equilibrium driver will demonstrate that very poor performance is possible for open
 	addressing when there are a large number of deletions, and that rehashing the table
 	is required to restore the table and achieve the expected performance.
- *
  * 	Known bugs: the -e and -b tests do not run properly, but both of my test drivers
  		show all of the functionality of the operations on the hash table.
  */
@@ -259,7 +251,7 @@ int table_insert (table_t *T, hashkey_t key, data_t D)
  *     pointer to I, or
  *     null if (K, I) is not found in the table.  
  *
- * See the note on page 490 in Standish¿s book about marking table entries for
+ * See the note on page 490 in StandishÂ¿s book about marking table entries for
  * deletions when using open addressing.
  */
 data_t table_delete (table_t *T, hashkey_t key) 
