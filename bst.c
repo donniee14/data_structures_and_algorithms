@@ -1,13 +1,4 @@
 /* Donald Elmore
- * ECE 2230 Spring 2018
- * MP5: Binary Search Trees
- * bst.c file
- *
- * Purpose: This is a basic implementation of a binary search tree with two
- * insertion methods.
- *
- * Assumptions: The user will give valid inputs. 
- *
  * Bugs: None known
  */
  
