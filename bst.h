@@ -1,9 +1,4 @@
 /* bst.h 
- * TODO NAME
- * TODO email
- * ECE 2230 Spring 2018
- * MP 5
- *
  * Interface and tree definition for basic binary tree
  */
 
