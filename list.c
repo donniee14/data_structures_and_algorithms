@@ -1,13 +1,4 @@
 /* Donald Elmore
- * list.c file
- * ECE 2230 Spring 2018
- * MP3
- *
- * Purpose: The list.c file is an extension from the list.c file from MP2 and
- *  defines list functions to make direct operations on the list.
- *
- * Assumptions: The user will give valid inputs. 
- *
  * Bugs: None known
  */
 
