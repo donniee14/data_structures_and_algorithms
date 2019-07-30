@@ -1,9 +1,4 @@
 /* Donald Elmore
- * C44140506
- * ECE 2230
- * Lab4: Dynamic Memory Allocation
- * 
- * mem.c file
  * Purpose: This file investigates strategies for managing a memory heap via
  *  Mem_alloc and Mem_free, without calling malloc or free.
  * Bugs: When user requests exactly one page, behavior is not consistent.
