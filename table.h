@@ -1,7 +1,4 @@
 /* Donald Elmore
- * Lab7: Hash Tables 
- * table.h file
- * ECE 2230, Spring 2018
  */
 
 /* constants used to indicate type of probing.  */
