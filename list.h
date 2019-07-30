@@ -1,9 +1,4 @@
 /* list.h 
- *
- * Public functions for two-way linked list
- *
- * You should not need to change any of the code this file.  If you do, you
- * must get permission from the instructor.
  */
 
 /* public constants used as parameters by most functions */
