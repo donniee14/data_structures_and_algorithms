@@ -1,7 +1,4 @@
 /* mem.h 
- * Lab4: Dynamic Memory Allocation
- * Version: 1
- * ECE 2230, Fall 2018
  */
 
 #define PAGESIZE 4096
